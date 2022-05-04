@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+site link (https://verdant-blini-d0fe30.netlify.app)
 
 ## Available Scripts
 
